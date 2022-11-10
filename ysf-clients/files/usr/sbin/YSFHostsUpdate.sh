@@ -8,4 +8,5 @@
 YSFHOSTS=/etc/mmdvm/YSFHosts.txt
 
 # Generate YSFHosts.txt file
-wget -O ${YSFHOSTS} http://register.ysfreflector.de/export_csv.php 
+#wget -O ${YSFHOSTS} http://register.ysfreflector.de/export_csv.php 
+wget -O ${YSFHOSTS} http://www.pistar.uk/downloads/YSF_Hosts.txt
